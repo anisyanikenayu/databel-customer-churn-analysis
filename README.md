@@ -25,12 +25,12 @@ New insight to remember:
 - Enhanced Customer Service: Improve customer service responsiveness by actively listening to complaints and providing polite, effective solutions. Notably, customers who leave often contact customer service multiple times, indicating a need for better engagement and resolution strategies.
 
 Customer Churn Report Dashboard Sample:
-The report can be found in the pdf [here][https://drive.google.com/file/d/14hWwCWHnSUqilvBIpPXig8iOsUq0egSG/view?usp=sharing]. It's unavailable to access directly to PowerBI for public.
+The report can be found in the pdf [here](https://drive.google.com/file/d/14hWwCWHnSUqilvBIpPXig8iOsUq0egSG/view?usp=sharing)
+. It's unavailable to access directly to PowerBI for public.
 ![image](https://github.com/user-attachments/assets/aeefad6d-6c9b-40ba-a61e-ab80d9b50d31)
 
 Presentation Sample:
-The presentation created for the marketing team walks through the insights and recommendations above and can be found [here][https://docs.google.com/presentation/d/10tU70wIaA3SgUtHOF_qdwonAVTh91LXnol7yoyAlQuE/edit?usp=sharing
-]. Some extracts are presented below for easy viewing.
+The presentation created for the marketing team walks through the insights and recommendations above and can be found [here](https://docs.google.com/presentation/d/10tU70wIaA3SgUtHOF_qdwonAVTh91LXnol7yoyAlQuE/edit?usp=sharing). Some extracts are presented below for easy viewing.
 ![image](https://github.com/user-attachments/assets/c9b36f3f-e74d-47e8-a6e8-c97e21c84cc4)
 ![image](https://github.com/user-attachments/assets/31a37769-290c-4e61-9d3d-b150c8594bb9)
 ![image](https://github.com/user-attachments/assets/9b3b247b-aa93-4358-9c47-0312b77f015d)
