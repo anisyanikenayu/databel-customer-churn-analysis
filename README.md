@@ -13,7 +13,19 @@ Databel is a fictional telecommunications company that has been operating in the
 ## Executive Summary
 
 ## Insights Deep-Dive
-# 
+### Customer Churned based on Contract Type
+- Majority customer with portion 51% subscribes a package for month-to-month rather than yearly type, yet
+
+
+![image](https://github.com/user-attachments/assets/4bce10f3-190f-4d19-bf4c-d9d84d7157ad)
+
+![{00973704-284D-42C7-93AC-37B8495A0C20}](https://github.com/user-attachments/assets/2f3576e0-5dda-4a76-ace0-7fa438a0a9b6)
+
+
+
+### Customer Churned based on Payment Methods
+
+
 In order to generate a high-risk customer churn, we focused in this following metrics key:
 - Churn Rate: The percentage of people left to subscribes Databel.
 
