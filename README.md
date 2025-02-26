@@ -1,8 +1,19 @@
-# Customer Churn Rate & Recommendation
-## The goal of this project is to identify customer segments at risk of churning in the future, which will assist the marketing team in developing effective marketing strategies.
-Databel is a fictional telecommunications company that has been operating in the industry for a long time. Currently, Databel has approximately 6,687 customers. As a company focused on telecommunications services, Databel provides a variety of products and services designed to meet customer communication needs.
+## Customer Churn Rate & Recommendation
+Table of Content:
+- Project Background
+- Executive Summary
+- Insights Deep-Dive
+    - Sales Trends and Growth Rates
+- Recommendations
+- Assumptions and Caveats
 
-## Insight Summary
+## Project Background
+Databel is a fictional telecommunications company that has been operating in the industry for a long time. Currently, Databel has approximately 6,687 customers. As a company focused on telecommunications services, Databel provides a variety of products and services designed to meet customer communication needs. I was working as data analyst to assist their marketing team to overview churned customer in order to make effective marketing strategies 
+
+## Executive Summary
+
+## Insights Deep-Dive
+# 
 In order to generate a high-risk customer churn, we focused in this following metrics key:
 - Churn Rate: The percentage of people left to subscribes Databel.
 
