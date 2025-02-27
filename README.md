@@ -14,7 +14,10 @@ Databel is a fictional telecommunications company that has been operating in the
 
 ## Insights Deep-Dive
 ### Customer Churned based on Contract Type
-- Majority customer with portion 51% subscribes a package for month-to-month rather than yearly type, yet
+- Majority customer approximately 51% subscribes a package for Month-to-Month rather than Yearly type, yet nearly 46% from this sort did no longer purchase.
+- The two most prefable payment for Month-to-Month customer are Direct Debit (21K) and Credit Card (1K), however people with Paper Check payment place the highest churned customer nearly 57% from 211 customer in total followed by Direct Debit nearly 51%.
+- 
+
 
 
 ![image](https://github.com/user-attachments/assets/4bce10f3-190f-4d19-bf4c-d9d84d7157ad)
